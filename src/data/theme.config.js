@@ -13,12 +13,12 @@
  * - dir: "rtl" for Arabic/Hebrew menus, "ltr" for others.
  */
 export const theme = {
-  name: "كبابجي عصام نجم",
+  name: " أطياب طيبة",
   tagline: "الطعم الأصيل",
   logo: "./logo.jpg",
   favicon: "./logo.jpg",
-  phone: "01229490008",
-  whatsapp: "201229490008", // international format, no + or spaces
+  phone: "01122557111",
+  whatsapp: "201122557111", // international format, no + or spaces
   dir: "rtl",
   currency: "ج.م",
 
