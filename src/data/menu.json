@@ -1,0 +1,671 @@
+{
+  "restaurantName": "نجم",
+  "categories": [
+    {
+      "id": "meat-corner",
+      "name": "ركن اللحوم",
+      "items": [
+        {
+          "id": "kebab-dani",
+          "name": "كباب ضاني",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%83%D8%A8%D8%A7%D8%A8_%D8%B6%D8%A7%D9%86%D9%8A639196546949082235.jpg?width=172&height=172",
+          "price": 1100
+        },
+        {
+          "id": "ribs-dani",
+          "name": "ريش ضاني",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/Individual_Ribs639196817189297249.jpg?width=172&height=172",
+          "price": 1100
+        },
+        {
+          "id": "mixed-kebab-dani",
+          "name": "كباب مشكل ضاني",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%83%D8%A8%D8%A7%D8%A8_%D8%B6%D8%A7%D9%86%D9%8A639196548035921810.jpg?width=172&height=172",
+          "price": 840
+        },
+        {
+          "id": "liver-gizzards-dani",
+          "name": "كبدة وكاوري ضاني",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%83%D8%A8%D8%AF%D9%87_%D9%88%D9%83%D9%84%D8%A7%D9%88%D9%8A_%D8%B6%D8%A7%D9%86%D9%8A639196548766749153.jpg?width=172&height=172",
+          "price": 800
+        },
+        {
+          "id": "nefa-dani",
+          "name": "نيفة ضاني",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%86%D9%8A%D9%81%D8%A9_%D8%B6%D8%A7%D9%86%D9%8A639196549112392086.jpg?width=172&height=172",
+          "price": 900
+        },
+        {
+          "id": "mouza-dani",
+          "name": "موزة ضاني",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/lamb_shank_with_mahsed_po639196817447721676.jpg?width=172&height=172",
+          "price": 320
+        },
+        {
+          "id": "ouzi-dani",
+          "name": "أوزي ضاني",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFBtO8CvIaxRNusnqIa-Ti3a4TcYtfJoBqpYxBocuEjPmqgLq_y6-S4Tw&s=10",
+          "price": 320
+        },
+        {
+          "id": "tarab-dani",
+          "name": "طرب ضاني",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B7%D8%B1%D8%A8_%D8%B6%D8%A7%D9%86%D9%8A639196550852338948.jpg?width=172&height=172",
+          "price": 600
+        },
+        {
+          "id": "kofta-dani",
+          "name": "كفتة ضاني",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%83%D9%81%D8%AA%D8%A9_%D8%B6%D8%A7%D9%86%D9%8A639196550994086827.jpg?width=172&height=172",
+          "price": 560
+        },
+        {
+          "id": "sausage-dani",
+          "name": "سجق ضاني",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B3%D8%AC%D9%82_%D8%B6%D8%A7%D9%86%D9%8A639196551082703558.jpg?width=172&height=172",
+          "price": 560
+        },
+        {
+          "id": "kofta-and-tarab",
+          "name": "كفتة وطرب",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%83%D9%81%D8%AA%D8%A9_%D9%88%D8%B7%D8%B1%D8%A8639196551200025108.jpg?width=172&height=172",
+          "price": 540
+        },
+        {
+          "id": "kofta-kandouz",
+          "name": "كفتة كندوز",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%83%D9%81%D8%AA%D8%A9_%D9%83%D9%86%D8%AF%D9%88%D8%B2_2639196551257242484.jpg?width=172&height=172",
+          "price": 460
+        }
+      ]
+    },
+    {
+      "id": "chicken-corner",
+      "name": "ركن الفراخ",
+      "items": [
+        {
+          "id": "charcoal-chicken",
+          "name": "فراخ فحم",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%81%D8%B1%D8%A7%D8%AE_%D9%81%D8%AD%D9%85639196551634869327.jpg?width=172&height=172",
+          "price": 320
+        },
+        {
+          "id": "shawarya-chicken",
+          "name": "فراخ شوارية",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%81%D8%B1%D8%A7%D8%AE_%D8%B4%D9%88%D8%A7%D9%8A%D8%A9_2639196552783795858.jpg?width=172&height=172",
+          "price": 320
+        },
+        {
+          "id": "tikka-chicken",
+          "name": "فراخ تكا",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%81%D8%B1%D8%A7%D8%AE_%D8%AA%D9%83%D8%A7639196552580063899.jpg?width=172&height=172",
+          "price": 320
+        },
+        {
+          "id": "liver-gizzards-chicken",
+          "name": "كبدة وقوانص",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%83%D8%A8%D8%AF%D8%A9_%D9%88%D9%82%D9%88%D8%A7%D9%86%D8%B5639196553296989672.jpg?width=172&height=172",
+          "price": 440
+        },
+        {
+          "id": "grilled-pane-chicken",
+          "name": "بانية مشوي",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMJG9O9yzMUdKkurJ-o_pOPrJ81ZHFdJyAGba_s94XXA&s=10",
+          "price": 440
+        },
+        {
+          "id": "shish-tawook-chicken",
+          "name": "شيش طاووق",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDmI_fPncDebQQvU2eXacRYH_3TCA7q3Mqr2tDpCn4MA&s=10",
+          "price": 440
+        }
+      ]
+    },
+    {
+      "id": "pigeon-corner",
+      "name": "ركن الحمام",
+      "items": [
+        {
+          "id": "pigeon-freekeh",
+          "name": "حمام محشي فريك",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%AD%D9%85%D8%A7%D9%85_%D9%85%D8%AD%D8%B4%D9%8A_%D9%81%D8%B1%D9%8A%D9%83639196553535465989.jpg?width=172&height=172",
+          "price": 190
+        },
+        {
+          "id": "pigeon-rice",
+          "name": "حمام محشي أرز",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%AD%D9%85%D8%A7%D9%85_%D9%85%D8%AD%D8%B4%D9%8A_%D8%A3%D8%B1%D8%B2639196554021206317.jpg?width=172&height=172",
+          "price": 180
+        },
+        {
+          "id": "grilled-pigeon",
+          "name": "حمام مشوي",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%81%D8%B1%D8%AF_%D8%AD%D9%85%D8%A7%D9%85639196818909494731.jpg?width=172&height=172",
+          "price": 160
+        }
+      ]
+    },
+    {
+      "id": "tagines",
+      "name": "طواجن عصام نجم",
+      "items": [
+        {
+          "id": "akkawi-tagine",
+          "name": "طاجن عكاوي",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B7%D8%A7%D8%AC%D9%86_%D8%B9%D9%83%D8%A7%D9%88%D9%8A639196557309580423.jpg?width=172&height=172",
+          "price": 320
+        },
+        {
+          "id": "meat-egg-tagine",
+          "name": "طاجن لحمة بالبيض",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B7%D8%A7%D8%AC%D9%86_%D9%84%D8%AD%D9%85%D8%A9_%D8%A8%D8%A7%D9%84%D8%A8%D8%B5%D9%84639196557532463552.jpg?width=172&height=172",
+          "price": 220
+        },
+        {
+          "id": "potato-meat-tagine",
+          "name": "طاجن بطاطس باللحمة",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B7%D8%A7%D8%AC%D9%86_%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_%D8%A8%D8%A7%D9%84%D9%84%D8%AD%D9%85%D8%A9_639196557746158853.jpg?width=172&height=172",
+          "price": 220
+        },
+        {
+          "id": "okra-meat-tagine",
+          "name": "طاجن بامية باللحمة",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B7%D8%A7%D8%AC%D9%86_%D8%A8%D8%A7%D9%85%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D9%84%D8%AD%D9%85%D8%A9639196557880172744.jpg?width=172&height=172",
+          "price": 220
+        },
+        {
+          "id": "mixed-meat-tagine",
+          "name": "طاجن مشكل باللحمة",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B7%D8%A7%D8%AC%D9%86_%D9%85%D8%B4%D9%83%D9%84_%D8%A8%D8%A7%D9%84%D9%84%D8%AD%D9%85%D8%A9639196557984395276.jpg?width=172&height=172",
+          "price": 220
+        }
+      ]
+    },
+    {
+      "id": "friends-trays",
+      "name": "الصواني (صواني الأصدقاء وغيرها)",
+      "items": [
+        {
+          "id": "tray-friends",
+          "name": "صينية الأصدقاء (كفتة ¼ + فرخة ¼ + طرب ¼ + سجق ¼ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B5%D9%8A%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D8%B5%D8%AF%D9%82%D8%A7%D8%A1639196565301151834.jpg?width=172&height=172",
+          "price": 810
+        },
+        {
+          "id": "tray-champions",
+          "name": "صينية الأبطال (كفتة ¼ + فرخة ¼ + كباب ¼ + سجق ¼ + شيش طاووق ¼ + أرز بسمتي + سلطة و طحينة و عيش)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf52JJdVPeaexapDMibkt0Y4f2QjfUAR8HQ5Y3rhsdQw&s=10",
+          "price": 960
+        },
+        {
+          "id": "tray-mood",
+          "name": "صينية المزاج (كفتة ¼ + كباب ¼ + سجق ¼ + أرز بسمتي + سلطة و طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B5%D9%8A%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%AC639196565088796527.jpg?width=172&height=172",
+          "price": 960
+        },
+        {
+          "id": "tray-sultan",
+          "name": "صينية السلطان (فرخة ¼ + طرب ¼ + كفتة ¼ + أرز بسمتي + سلطة و طحينة و عيش)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf52JJdVPeaexapDMibkt0Y4f2QjfUAR8HQ5Y3rhsdQw&s=10",
+          "price": 1020
+        },
+        {
+          "id": "tray-master",
+          "name": "صينية المعلم (حمام 2 + فرخة ¼ + كباب ¼ + سجق ¼ + طرب ¼ + أرز بسمتي + سلطة و طحينة)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf52JJdVPeaexapDMibkt0Y4f2QjfUAR8HQ5Y3rhsdQw&s=10",
+          "price": 1060
+        },
+        {
+          "id": "tray-hareefa",
+          "name": "صينية الحريفة (كفتة 2 + كباب ¼ + فرخة ¼ + أرز بسمتي + سلطة و طحينة و عيش)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThK6n0haevOjVgCF1KF6ylf27XLfaRe-_IgZ3bpXi8qQ&s=10",
+          "price": 1185
+        },
+        {
+          "id": "tray-kings",
+          "name": "صينية الملوك (كباب ¼ + طرب ¼ + كفتة ¼ + أرز بسمتي + سلطة و طحينة و عيش)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThK6n0haevOjVgCF1KF6ylf27XLfaRe-_IgZ3bpXi8qQ&s=10",
+          "price": 1250
+        },
+        {
+          "id": "tray-monsters",
+          "name": "صينية الوحوش (كباب ¼ + سجق ¼ + شيش طاووق ¼ + كفتة ¼ + فرخة ¼ + أرز بسمتي + سلطة و طحينة و عيش)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEjGfiq4e8lhNiHEOfmlmFGfP6HdlEzuuuRfYtSyosig&s=10",
+          "price": 1360
+        },
+        {
+          "id": "tray-lamma",
+          "name": "صينية اللمة (كباب ¼ + كفتة ¼ + طرب ¼ + سجق ¼ + أرز بسمتي + سلطة و طحينة و عيش)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEjGfiq4e8lhNiHEOfmlmFGfP6HdlEzuuuRfYtSyosig&s=10",
+          "price": 1390
+        },
+        {
+          "id": "tray-happiness",
+          "name": "صينية السعادة (كباب ¼ + كفتة ¼ + طرب ¼ + سجق ¼ + شيش طاووق ¼ + أرز بسمتي + سلطة و طحينة و عيش)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEjGfiq4e8lhNiHEOfmlmFGfP6HdlEzuuuRfYtSyosig&s=10",
+          "price": 1500
+        },
+        {
+          "id": "tray-bride",
+          "name": "صينية العروسة (حمام 2 + كباب ¼ + كفتة ¼ + طرب ¼ + فرخة ¼ + سجق ¼ + شيش طاووق ¼ + أرز بسمتي + سلطة و طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B5%D9%8A%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D9%8A%D8%B3_639196565547969088.jpg?width=172&height=172",
+          "price": 1860
+        },
+        {
+          "id": "tray-mixed-meats",
+          "name": "صينية ميكس لحوم",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B5%D9%8A%D9%86%D9%8A%D8%A9_%D9%85%D9%8A%D9%83%D8%B3_%D9%84%D8%AD%D9%88%D9%85639196565437331828.jpg?width=172&height=172",
+          "price": null
+        }
+      ]
+    },
+    {
+      "id": "essam-nagm-trays",
+      "name": "صواني عصام نجم",
+      "items": [
+        {
+          "id": "tray-el-khair",
+          "name": "صينية الخير (فرخة + كفتة + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGC7PSidGLY6zGi0V1Jk-wO5sXgw6N8WtqKNKsCxEbuw&s",
+          "price": 565
+        },
+        {
+          "id": "tray-tawfeer",
+          "name": "صينية التوفير (كفتة + فرخة + طرب + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B5%D9%8A%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%AA%D9%88%D9%81%D9%8A%D8%B1639196563649976528.jpg?width=172&height=172",
+          "price": 625
+        },
+        {
+          "id": "tray-gedaan",
+          "name": "صينية الجدعان (كفتة + طرب + بانية + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWE7zh71ZfWecMduPhCK41-ywwOGlvSA-LJmGprmn2CA&s=10",
+          "price": 680
+        },
+        {
+          "id": "tray-akeel",
+          "name": "صينية الأكيل (كفتة + شيش طاووق + طرب + حواوشي لحم كبير + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B5%D9%8A%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D9%83%D9%8A%D9%84639196564848935998.jpg?width=172&height=172",
+          "price": 700
+        },
+        {
+          "id": "tray-sohab",
+          "name": "صينية الصحاب (كفتة + كباب + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Q4pCXCeqnqylU65P7VdGYdBLGE_FuDmiBbEFzHtqpw&s=10",
+          "price": 710
+        },
+        {
+          "id": "tray-akaber",
+          "name": "صينية الأكابر (بانية + كفتة + أرز بسمتي + سلطة و طحينة و عيش)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4nzRfOe8cttxr7v5H7xj5w23zTUjDRBxMHazioytTX-Wcz6tPkSofdfMh&s=10",
+          "price": 750
+        },
+        {
+          "id": "tray-couples",
+          "name": "صينية الكابلز (طرب + كفتة + شيش طاووق + كباب + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53x3XW3CZfrCIwdhsv9qbT6gLqExrRvdb24rIAfv1HA&s=10",
+          "price": 800
+        }
+      ]
+    },
+    {
+      "id": "sandwiches",
+      "name": "ركن الساندوتشات",
+      "items": [
+        {
+          "id": "liver-gizzards-sandwich",
+          "name": "كبدة وقوانص",
+          "image": "https://i.ytimg.com/vi/FyR_c1fD00o/maxresdefault.jpg",
+          "price": 45
+        },
+        {
+          "id": "kofta-kandouz-sandwich",
+          "name": "كفتة كندوز",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/Kofta_Sandwich639177333662927612.jpg?amp%3Bheight=172&width=800&height=800",
+          "price": 65
+        },
+        {
+          "id": "shish-tawook-sandwich",
+          "name": "شيش طاووق",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/Shish_Tawook_Sandwich639177334181592501.jpg?amp%3Bheight=172&width=800&height=800",
+          "price": 60
+        },
+        {
+          "id": "grilled-pane-sandwich",
+          "name": "بانية مشوي",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/Grilled_Pane_Sandwich6391639177561348918563.jpg?amp%3Bheight=172&width=800&height=800",
+          "price": 80
+        },
+        {
+          "id": "tarab-dani-sandwich",
+          "name": "طرب ضاني",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/Tarb_sandwich639177988289289412.jpg?amp%3Bheight=172&width=800&height=800",
+          "price": 75
+        },
+        {
+          "id": "sausage-dani-sandwich",
+          "name": "سجق ضاني",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/Sujuk_Sandwich639177334689940513.jpg?amp%3Bheight=172&width=800&height=800",
+          "price": 75
+        },
+        {
+          "id": "kofta-dani-sandwich",
+          "name": "كفتة ضاني",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/Sujuk_Sandwich639177334689940513.jpg?amp%3Bheight=172&width=800&height=800",
+          "price": 100
+        },
+        {
+          "id": "kebab-dani-sandwich",
+          "name": "كباب ضاني",
+          "image": "https://s3-eu-west-1.amazonaws.com/elmenusv5-stg/Normal/3fbfc6ed-9d3a-427c-94fb-3b223321cb05.jpg",
+          "price": 140
+        }
+      ]
+    },
+    {
+      "id": "hawawshi",
+      "name": "ركن الحواوشي",
+      "items": [
+        {
+          "id": "meat-hawawshi-medium",
+          "name": "حواوشي لحم وسط",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%AD%D9%88%D8%A7%D9%88%D8%B4%D9%8A_%D9%84%D8%AD%D9%85_%D9%88%D8%B3%D8%B7639196558133210678.jpg?width=172&height=172",
+          "price": 60
+        },
+        {
+          "id": "meat-hawawshi-large",
+          "name": "حواوشي لحم كبير",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%AD%D9%88%D8%A7%D9%88%D8%B4%D9%8A_%D9%84%D8%AD%D9%85_%D9%83%D8%A8%D9%8A%D8%B1639196558170035810.jpg?width=172&height=172",
+          "price": 80
+        },
+        {
+          "id": "chicken-hawawshi",
+          "name": "حواوشي فراخ",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%AD%D9%88%D8%A7%D9%88%D8%B4%D9%8A_%D9%81%D8%B1%D8%A7%D8%AE639196558204009530.jpg?width=172&height=172",
+          "price": 90
+        },
+        {
+          "id": "sausage-dani-hawawshi",
+          "name": "حواوشي سجق ضاني",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%AD%D9%88%D8%A7%D9%88%D8%B4%D9%8A_%D8%B3%D8%AC%D9%82_%D8%B6%D8%A7%D9%86%D9%8A639196558225471378.jpg?width=172&height=172",
+          "price": 90
+        },
+        {
+          "id": "mozzarella-addition",
+          "name": "إضافة موتزاريلا",
+          "image": "https://images.deliveryhero.io/image/global-menu-service/HF_EG/vendor/801310/product/3091475610/9d3f02e4-c4d9-4c25-9839-aca66906a396.jpg?amp%3Bheight=172&width=800&height=800",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "id": "meals-corner",
+      "name": "ركن الوجبات",
+      "items": [
+        {
+          "id": "meal-tawfeer",
+          "name": "وجبة التوفير (فرخة ورك + أرز أبيض + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D8%A7%D9%84%D8%AA%D9%88%D9%81%D9%8A%D8%B1639196566093652753.jpg?width=172&height=172",
+          "price": 115
+        },
+        {
+          "id": "meal-bo3a",
+          "name": "وجبة البقعة (فرخة ورك + خضار + أرز أبيض + سلطة + طحينة و عيش)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNz6iacAyh-ZGmw-97felPrPTNMjDwV8h4M0ozFswct8ntAvPW1yrGAs&s=10",
+          "price": 135
+        },
+        {
+          "id": "meal-sha3beya",
+          "name": "وجبة شعبية (فرخة ورك + خضار + شوربة + أرز أبيض + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D8%B4%D8%B9%D8%A8%D9%8A639196566097166386.jpg?width=172&height=172",
+          "price": 140
+        },
+        {
+          "id": "meal-shish-baina",
+          "name": "وجبة الشيش ١ الباينة (شيش ١ باينة + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D8%A7%D9%84%D8%B4%D9%8A%D8%B4__%D8%A7%D9%84%D8%A8%D8%A7%D9%86%D9%8A%D9%87639196566097732697.jpg?width=172&height=172",
+          "price": 145
+        }
+      ]
+    },
+    {
+      "id": "sides",
+      "name": "أصناف جانبية",
+      "items": [
+        {
+          "id": "plain-white-rice",
+          "name": "أرز أبيض سادة",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGvmnp14cZOh-x6BHZhRAo9YeBERybwEEjmE5sLzXRzw&s=10",
+          "price": 35
+        },
+        {
+          "id": "vermicelli-rice",
+          "name": "أرز بالشعرية",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%A3%D8%B1%D8%B2_%D8%A8%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D9%8A%D8%A9639196561803601198.jpg?width=172&height=172",
+          "price": 45
+        },
+        {
+          "id": "basmati-rice",
+          "name": "أرز بسمتي",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%A3%D8%B1%D8%B2_%D8%A8%D8%B3%D9%85%D8%AA%D9%8A639196561898301325.jpg?width=172&height=172",
+          "price": 45
+        },
+        {
+          "id": "basmati-liver-rice",
+          "name": "أرز بسمتي بالكبدة",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%A3%D8%B1%D8%B2_%D8%A8%D8%B3%D9%85%D8%AA%D9%8A_%D8%A8%D8%A7%D9%84%D9%83%D8%A8%D8%AF%D8%A9639196561931030654.jpg?width=172&height=172",
+          "price": 50
+        },
+        {
+          "id": "bechamel-pasta",
+          "name": "مكرونة بشاميل",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPocM6Zn9rwmIUkySTHtM0GJGfNdnbTpubav-YjxeAKg&s=10",
+          "price": 45
+        },
+        {
+          "id": "plain-vegetables",
+          "name": "خضار سادة (مشكل - باميا - بطاطس)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfFqbdh24Mka7-V5ZQXg5xq_5fzV6Ty0A45r2wxxp9Mg&s=10",
+          "price": 40
+        },
+        {
+          "id": "bird-tongue-soup",
+          "name": "شوربة لسان عصفور",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B4%D9%88%D8%B1%D8%A8%D8%A9_%D9%84%D8%B3%D8%A7%D9%86_%D8%B9%D8%B5%D9%81%D9%88%D8%B1639196563130711677.jpg?width=172&height=172",
+          "price": 25
+        },
+        {
+          "id": "pomme-frites",
+          "name": "بطاطس بوم فريت",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_%D8%A8%D9%88%D9%85_%D9%81%D8%B1%D9%8A%D8%AA639196563049066144.jpg?width=172&height=172",
+          "price": null
+        },
+        {
+          "id": "molokhia",
+          "name": "ملوخية",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%85%D9%84%D9%88%D8%AE%D9%8A%D8%A9639196563299219990.jpg?width=172&height=172",
+          "price": null
+        }
+      ]
+    },
+    {
+      "id": "meals",
+      "name": "وجبات",
+      "items": [
+        {
+          "id": "meal-king",
+          "name": "وجبة الكينج (فرخة ورك + سجق + طرب ¼ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "",
+          "price": 260
+        },
+        {
+          "id": "meal-dynamite",
+          "name": "وجبة الديناميت (فرخة ورك + كفتة ¼ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D8%A7%D9%85%D9%8A%D8%AA639196566095175295.jpg?width=172&height=172",
+          "price": 250
+        },
+        {
+          "id": "meal-qadeya",
+          "name": "وجبة القضية (فرخة ورك + أرز + سلطة + طحينة و عيش)",
+          "image": "",
+          "price": 255
+        },
+        {
+          "id": "meal-akeel",
+          "name": "وجبة الأكيل (بانية + طرب ¼ + شيش ¼ + كفتة ¼ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D8%A7%D9%84%D8%A3%D9%83%D9%8A%D9%84639196566104169313.jpg?width=172&height=172",
+          "price": 280
+        },
+        {
+          "id": "meal-mix-grill",
+          "name": "وجبة ميكس جريل (لحم مشكل ¼ [كباب ½ + كفتة ½] + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "",
+          "price": 290
+        },
+        {
+          "id": "meal-mix-meats",
+          "name": "وجبة ميكس لحوم (لحم مشكل ¼ [كباب ½ + طرب ½ + كفتة ½] + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D9%85%D9%8A%D9%83%D8%B3_%D9%84%D8%AD%D9%88%D9%85639196566096323698.jpg?width=172&height=172",
+          "price": 310
+        },
+        {
+          "id": "meal-mood",
+          "name": "وجبة المزاج (فرخ حمام + شيش ½ + كفتة ½ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%AC639196566096050830.jpg?width=172&height=172",
+          "price": 330
+        },
+        {
+          "id": "meal-mix-chicken",
+          "name": "وجبة ميكس فراخ (قطع شيش + بانية ¼ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D9%85%D9%8A%D9%83%D8%B3_%D9%81%D8%B1%D8%A7%D8%AE639196566095701403.jpg?width=172&height=172",
+          "price": 145
+        },
+        {
+          "id": "meal-kofta-shish",
+          "name": "وجبة كفتة وشيش (كفتة ¼ + شيش ¼ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D9%83%D9%81%D8%AA%D9%87_%D9%88%D8%B4%D9%8A%D8%B4639196566096051301.jpg?width=172&height=172",
+          "price": 150
+        },
+        {
+          "id": "meal-kofta",
+          "name": "وجبة الكفتة (كفتة ¼ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D8%A7%D9%84%D9%83%D9%81%D8%AA%D9%87639196566097175833.jpg?width=172&height=172",
+          "price": 150
+        },
+        {
+          "id": "meal-kofta-mix",
+          "name": "وجبة كفتة ميكس (كفتة وطرب ¼ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "",
+          "price": 160
+        },
+        {
+          "id": "meal-lunch",
+          "name": "وجبة الغداء (فرخة ورك ¼ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1639196566094673174.jpg?width=172&height=172",
+          "price": 170
+        },
+        {
+          "id": "meal-sausage",
+          "name": "وجبة السجق (سجق ضاني + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "",
+          "price": 175
+        },
+        {
+          "id": "meal-habayeb",
+          "name": "وجبة الحبايب (فرخة ¼ + قطعة كفتة + قطعة طرب ¼ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "",
+          "price": 180
+        },
+        {
+          "id": "meal-half-chicken",
+          "name": "وجبة نص فرخة (نص فرخة + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D9%86%D8%B5_%D9%81%D8%B1%D8%AE%D8%A9639196570365197866.jpg?width=172&height=172",
+          "price": 195
+        },
+        {
+          "id": "meal-happiness",
+          "name": "وجبة السعادة (بانية ½ + كفتة ¼ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "",
+          "price": 220
+        },
+        {
+          "id": "meal-mexican",
+          "name": "وجبة مكسيكي (شيش ½ + طرب ¼ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D9%85%D9%83%D8%B3%D9%8A%D9%83%D9%88639196566095146923.jpg?width=172&height=172",
+          "price": 225
+        },
+        {
+          "id": "meal-mexican-f",
+          "name": "وجبة المكسيكية (بانية ½ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83%D9%8A639196566096302685.jpg?width=172&height=172",
+          "price": 225
+        },
+        {
+          "id": "meal-rawqan",
+          "name": "وجبة الروقان (شيش ¼ + كفتة ¼ + أرز + سلطة + طحينة و عيش)",
+          "image": "",
+          "price": 230
+        },
+        {
+          "id": "meal-combo",
+          "name": "وجبة عصام نجم (الكومبو) (فرخة ورك + كفتة ¼ + أرز بسمتي + سلطة + طحينة و عيش)",
+          "image": "",
+          "price": 230
+        },
+        {
+          "id": "meal-sheikh",
+          "name": "وجبة الشيخ (طرب ½ + سجق ¼ + أرز بسمتي + سلطة و طحينة)",
+          "image": "",
+          "price": 235
+        },
+        {
+          "id": "meal-king2",
+          "name": "وجبة الملك (فرخة ورك ½ + بانية ¼ + أرز بسمتي + طحينة و عيش)",
+          "image": "",
+          "price": 245
+        },
+        {
+          "id": "meal-el-baraka",
+          "name": "وجبة البركة",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%88%D8%AC%D8%A8%D8%A9_%D8%A7%D9%84%D8%A8%D8%B1%D9%83%D8%A9639196566042174479.jpg?width=172&height=172",
+          "price": null
+        }
+      ]
+    },
+    {
+      "id": "appetizers-stuffed",
+      "name": "المحاشي وورق العنب والمقبلات",
+      "items": [
+        {
+          "id": "grape-leaves-kilo",
+          "name": "كيلو ورق عنب",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%83%D9%8A%D9%84%D9%88_%D9%88%D8%B1%D9%82_%D8%B9%D9%86%D8%A8639196558345456893.jpg?width=172&height=172",
+          "price": null
+        },
+        {
+          "id": "mixed-mahshi-kilo",
+          "name": "كيلو محاشي مشكل",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D9%83%D9%8A%D9%84%D9%88_%D9%85%D8%AD%D8%A7%D8%B4%D9%8A_%D9%85%D8%B4%D9%83%D9%84639196558464698182.jpg?width=172&height=172",
+          "price": null
+        },
+        {
+          "id": "grape-leaves-plate",
+          "name": "طبق ورق عنب",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B7%D8%A8%D9%82_%D9%88%D8%B1%D9%82_%D8%B9%D9%86%D8%A8639196561633552207.jpg?width=172&height=172",
+          "price": null
+        },
+        {
+          "id": "mahshi-plate",
+          "name": "طبق محاشي",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B7%D8%A8%D9%82_%D9%85%D8%AD%D8%A7%D8%B4%D9%8A639196559495985798.jpg?width=172&height=172",
+          "price": null
+        },
+        {
+          "id": "samosa",
+          "name": "سمبوسة",
+          "image": "https://images.deliveryhero.io/image/talabat/MenuItems/%D8%B3%D9%85%D8%A8%D9%88%D8%B3%D8%A9639196563214849935.jpg?width=172&height=172",
+          "price": null
+        }
+      ]
+    }
+  ]
+}
